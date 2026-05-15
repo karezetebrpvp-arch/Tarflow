@@ -1,22 +1,22 @@
 [GUIA_INSTALACAO.md](https://github.com/user-attachments/files/27803936/GUIA_INSTALACAO.md)[Uploading# 🌊 TARFLOW — Versão 3.0
 
-App pessoal que junta **gerenciamento financeiro** (gastos, metas, categorias, gráficos, Excel) com **gerenciamento de tarefas estilo Microsoft To Do** (listas, prioridades, lembretes, datas), além de **compartilhamento em casal/família** e **lembrete de fim de mês**.
+App pessoal que junta **gerenciamento financeiro** (gastos, metas, categorias, gráficos, Excel) (listas, prioridades, lembretes, datas), além de **compartilhamento em casal/família** e **lembrete de fim de mês**.
 
 ---
 
 ## NOVIDADES DA VERSÃO 3.0
 
-### 1. Novo nome: Tarflow 🌊
+### 1. Novo nome: Tarflow 
 "Tar" de **tarefas** + "flow" de **fluxo financeiro**. Tudo o que você precisa para manter sua vida pessoal e financeira em ordem.
 
 ### 2. Aba de Tarefas (estilo Microsoft To Do)
 - Crie múltiplas **listas de tarefas** (Trabalho, Casa, Compras, etc.).
 - Cada tarefa tem **título, data de conclusão, lembrete (data/hora), prioridade** (alta/média/baixa) e **valor opcional**.
-- Marque tarefas como **conta a pagar 💰** para que apareçam no lembrete de fim de mês.
+- Marque tarefas como **conta a pagar** para que apareçam no lembrete de fim de mês.
 - Visualização ordenada por prioridade, com indicadores de tarefas **atrasadas** e **para hoje**.
 - Barra de progresso por lista mostrando % concluído.
 
-### 3. Sistema de Compartilhamento 📤
+### 3. Sistema de Compartilhamento 
 Botão "Compartilhar" no cabeçalho com várias opções:
 - **WhatsApp** (compartilhar com namorado(a), marido/esposa, família)
 - **Telegram**
@@ -26,20 +26,20 @@ Botão "Compartilhar" no cabeçalho com várias opções:
 - **Copiar link**
 - **Compartilhamento nativo** do sistema (Web Share API)
 
-### 4. Modo Casal / Família 👨‍👩‍👧
+### 4. Modo Casal / Família 
 - **Exportar dados**: gera um arquivo JSON com seus gastos, metas e tarefas.
 - **Importar dados**: o parceiro carrega o arquivo dele e o app **mescla** (junta) os dados com os seus.
 - Permite que casais ou famílias acompanhem juntos finanças e tarefas, mesmo sem servidor.
 
-### 5. Lembrete de fim de mês ⏰
+### 5. Lembrete de fim de mês 
 - Nos **últimos 5 dias do mês**, o app abre um modal mostrando:
-  - 💰 **Contas a pagar pendentes** (tarefas marcadas como "É conta a pagar") com soma total.
-  - 📝 **Tarefas pendentes** ainda não concluídas.
-  - ⚠️ **Metas perto do limite** (acima de 80% do valor definido).
+  -  **Contas a pagar pendentes** (tarefas marcadas como "É conta a pagar") com soma total.
+  -  **Tarefas pendentes** ainda não concluídas.
+  -  **Metas perto do limite** (acima de 80% do valor definido).
 - Você pode dispensar ou clicar em "Lembrar mais tarde".
 - Mostra no máximo **uma vez por dia**.
 
-### 6. Notificações de lembretes de tarefas 🔔
+### 6. Notificações de lembretes de tarefas 
 - Se você definir um horário de lembrete em uma tarefa, o app dispara uma **notificação do navegador** no horário marcado.
 - Também aparece como toast dentro do app.
 - Verificação automática a cada 1 minuto enquanto o app está aberto.
@@ -93,11 +93,11 @@ Esta versão guarda os dados **no próprio aparelho** (localStorage do navegador
 3. Digite nome, valor e data.
 
 ### Criar lista e tarefas
-1. Aba "✅ Tarefas".
+1. Aba " Tarefas".
 2. Digite o nome da lista (ex: "Casa", "Trabalho") e clique em ➕ Criar.
 3. Selecione a lista no dropdown.
 4. Adicione tarefas com título, data de conclusão, lembrete, prioridade.
-5. Se for conta a pagar, marque a caixinha "💰 É uma conta a pagar".
+5. Se for conta a pagar, marque a caixinha " É uma conta a pagar".
 
 ### Compartilhar com o parceiro
 1. Clique em "📤 Compartilhar" no cabeçalho.
@@ -120,7 +120,7 @@ Esta versão guarda os dados **no próprio aparelho** (localStorage do navegador
 2. Clique em "Exportar para Excel".
 
 ### Modo escuro
-1. Clique em "🌙 Modo Escuro" no cabeçalho.
+1. Clique em "Modo Escuro" no cabeçalho.
 
 ---
 
